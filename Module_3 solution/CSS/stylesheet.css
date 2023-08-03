@@ -1,0 +1,52 @@
+body {
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bg-body-tertiary {
+    background-color: yellow;
+}
+
+/* The dropdown box */
+#navbarSupportedContent {
+    background-color: darkseagreen;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* The dropdown box content */
+.nav-link {
+    text-align: center;
+    border: 2px solid black;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+/* OUR MENU */
+#menu {
+    margin-top: 30px;
+    font-weight: bolder;
+}
+
+.container-fluid {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.col-sm-12 {
+    background-color: darkseagreen;
+    margin: 20px;
+    border: 20px;
+    width: 95%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
+
+
+
